@@ -676,7 +676,7 @@ func (bc *buildCmdT) buildPlugin() string {
 
 	var args []string
 	args = append(args, "build")
-	args = append(args, "-trimpath")
+	// args = append(args, "-trimpath")
 	args = append(args, "-buildmode=plugin")
 	args = append(args, "-o", outputFile)
 	args = append(args, g.BuildFlags...)
