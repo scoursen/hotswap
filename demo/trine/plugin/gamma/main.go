@@ -1,8 +1,8 @@
 package gamma
 
 import (
-	"github.com/edwingeng/hotswap/demo/trine/plugin/gamma/gimpl"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/demo/trine/plugin/gamma/gimpl"
+	"github.com/scoursen/hotswap/vault"
 )
 
 const (

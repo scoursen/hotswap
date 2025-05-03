@@ -3,7 +3,7 @@
 package plugin
 
 import (
-	"github.com/edwingeng/hotswap"
+	"github.com/scoursen/hotswap"
 )
 
 var (

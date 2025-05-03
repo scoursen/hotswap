@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/edwingeng/hotswap"
-	"github.com/edwingeng/hotswap/cli/hotswap/trial"
+	"github.com/scoursen/hotswap"
+	"github.com/scoursen/hotswap/cli/hotswap/trial"
 	"github.com/edwingeng/slog"
 )
 

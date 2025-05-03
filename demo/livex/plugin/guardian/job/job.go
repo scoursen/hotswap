@@ -1,8 +1,8 @@
 package job
 
 import (
-	"github.com/edwingeng/hotswap/demo/livex/g"
-	"github.com/edwingeng/hotswap/demo/livex/plugin/guardian/job/handler"
+	"github.com/scoursen/hotswap/demo/livex/g"
+	"github.com/scoursen/hotswap/demo/livex/plugin/guardian/job/handler"
 	"github.com/edwingeng/live"
 	"math/rand"
 	"reflect"

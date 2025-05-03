@@ -25,8 +25,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/edwingeng/hotswap/cli/hotswap/g"
-	"github.com/edwingeng/hotswap/internal/hutils"
+	"github.com/scoursen/hotswap/cli/hotswap/g"
+	"github.com/scoursen/hotswap/internal/hutils"
 	"github.com/spf13/cobra"
 	"golang.org/x/tools/go/packages"
 )

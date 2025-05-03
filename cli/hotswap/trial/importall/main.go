@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/vault"
 )
 
 var (

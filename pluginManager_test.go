@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/export/importall"
-	"github.com/edwingeng/hotswap/internal/hutils"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/export/importall"
+	"github.com/scoursen/hotswap/internal/hutils"
 	"github.com/edwingeng/slog"
 )
 

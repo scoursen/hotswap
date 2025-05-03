@@ -4,7 +4,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/vault"
 )
 
 func OnLoad(data interface{}) error {

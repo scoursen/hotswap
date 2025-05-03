@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/edwingeng/hotswap/demo/livex/g"
+	"github.com/scoursen/hotswap/demo/livex/g"
 	"github.com/edwingeng/live"
 )
 

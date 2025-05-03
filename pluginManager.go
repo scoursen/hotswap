@@ -15,8 +15,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/edwingeng/hotswap/internal/hutils"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/internal/hutils"
+	"github.com/scoursen/hotswap/vault"
 	"github.com/edwingeng/slog"
 	"github.com/pierrec/xxHash/xxHash32"
 )

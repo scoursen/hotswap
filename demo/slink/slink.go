@@ -11,10 +11,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/edwingeng/hotswap"
-	"github.com/edwingeng/hotswap/demo/slink/g"
-	"github.com/edwingeng/hotswap/demo/slink/plugin"
-	"github.com/edwingeng/hotswap/internal/hutils"
+	"github.com/scoursen/hotswap"
+	"github.com/scoursen/hotswap/demo/slink/g"
+	"github.com/scoursen/hotswap/demo/slink/plugin"
+	"github.com/scoursen/hotswap/internal/hutils"
 	"github.com/edwingeng/live"
 	"github.com/edwingeng/tickque"
 )

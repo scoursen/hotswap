@@ -3,10 +3,10 @@ package guardian
 import (
 	"fmt"
 
-	"github.com/edwingeng/hotswap/demo/livex/g"
-	"github.com/edwingeng/hotswap/demo/livex/plugin/guardian/job"
-	"github.com/edwingeng/hotswap/demo/livex/plugin/guardian/pg"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/demo/livex/g"
+	"github.com/scoursen/hotswap/demo/livex/plugin/guardian/job"
+	"github.com/scoursen/hotswap/demo/livex/plugin/guardian/pg"
+	"github.com/scoursen/hotswap/vault"
 	"github.com/edwingeng/live"
 	"github.com/edwingeng/tickque"
 )

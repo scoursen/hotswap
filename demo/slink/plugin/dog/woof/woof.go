@@ -3,7 +3,7 @@ package woof
 import (
 	"strings"
 
-	"github.com/edwingeng/hotswap/demo/slink/g"
+	"github.com/scoursen/hotswap/demo/slink/g"
 	"github.com/edwingeng/live"
 )
 

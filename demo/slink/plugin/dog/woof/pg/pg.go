@@ -1,6 +1,6 @@
 package pg
 
-import "github.com/edwingeng/hotswap/vault"
+import "github.com/scoursen/hotswap/vault"
 
 var (
 	SharedVault *vault.Vault

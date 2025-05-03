@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/edwingeng/hotswap/internal/hutils"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/internal/hutils"
+	"github.com/scoursen/hotswap/vault"
 )
 
 func TestPlugin(t *testing.T) {

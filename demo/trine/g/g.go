@@ -3,7 +3,7 @@ package g
 import (
 	"fmt"
 
-	"github.com/edwingeng/hotswap"
+	"github.com/scoursen/hotswap"
 	"github.com/edwingeng/slog"
 )
 

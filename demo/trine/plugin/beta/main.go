@@ -1,7 +1,7 @@
 package beta
 
 import (
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/vault"
 )
 
 const (

@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/vault"
 	"go.uber.org/atomic"
 )
 

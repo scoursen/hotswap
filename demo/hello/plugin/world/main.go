@@ -1,9 +1,9 @@
 package world
 
 import (
-	"github.com/edwingeng/hotswap/demo/hello/g"
-	"github.com/edwingeng/hotswap/demo/hello/plugin/world/hum"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/demo/hello/g"
+	"github.com/scoursen/hotswap/demo/hello/plugin/world/hum"
+	"github.com/scoursen/hotswap/vault"
 )
 
 const (

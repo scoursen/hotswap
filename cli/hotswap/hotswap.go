@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/edwingeng/hotswap/cli/hotswap/cmd"
-	"github.com/edwingeng/hotswap/cli/hotswap/g"
+	"github.com/scoursen/hotswap/cli/hotswap/cmd"
+	"github.com/scoursen/hotswap/cli/hotswap/g"
 )
 
 func main() {

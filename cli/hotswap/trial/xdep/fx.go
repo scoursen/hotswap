@@ -1,9 +1,9 @@
 package xdep
 
 import (
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/export/arya"
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/export/importall"
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/export/snow"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/export/arya"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/export/importall"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/export/snow"
 )
 
 var fx struct {

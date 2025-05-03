@@ -2,8 +2,8 @@ package gimpl
 
 import (
 	"bytes"
-	"github.com/edwingeng/hotswap/demo/trine/g"
-	"github.com/edwingeng/hotswap/demo/trine/plugin/export"
+	"github.com/scoursen/hotswap/demo/trine/g"
+	"github.com/scoursen/hotswap/demo/trine/plugin/export"
 	"math/rand"
 )
 

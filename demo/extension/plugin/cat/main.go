@@ -1,9 +1,9 @@
 package cat
 
 import (
-	"github.com/edwingeng/hotswap/demo/extension/g"
-	"github.com/edwingeng/hotswap/demo/extension/plugin/cat/meow"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/demo/extension/g"
+	"github.com/scoursen/hotswap/demo/extension/plugin/cat/meow"
+	"github.com/scoursen/hotswap/vault"
 )
 
 const (

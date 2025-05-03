@@ -1,7 +1,7 @@
 package g
 
 import (
-	"github.com/edwingeng/hotswap"
+	"github.com/scoursen/hotswap"
 	"github.com/edwingeng/live"
 	"github.com/edwingeng/slog"
 	"github.com/edwingeng/tickque"

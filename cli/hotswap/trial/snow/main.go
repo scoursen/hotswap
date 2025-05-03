@@ -1,7 +1,7 @@
 package snow
 
 import (
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/vault"
 	"github.com/edwingeng/slog"
 )
 

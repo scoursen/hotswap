@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/arya/needle"
-	"github.com/edwingeng/hotswap/cli/hotswap/trial/arya/pg"
-	"github.com/edwingeng/hotswap/internal/hctx"
-	"github.com/edwingeng/hotswap/vault"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/arya/needle"
+	"github.com/scoursen/hotswap/cli/hotswap/trial/arya/pg"
+	"github.com/scoursen/hotswap/internal/hctx"
+	"github.com/scoursen/hotswap/vault"
 	"github.com/edwingeng/slog"
 )
 
