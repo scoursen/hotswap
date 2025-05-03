@@ -1,4 +1,4 @@
-module github.com/edwingeng/hotswap
+module github.com/scoursen/hotswap
 
 go 1.18
 
