@@ -32,8 +32,8 @@ function printUsage() {
     $colorful && tput setaf 7
 }
 
-go build -o cli/hotswap/hotswap github.com/edwingeng/hotswap/cli/hotswap
+go build -o cli/hotswap/hotswap github.com/scoursen/hotswap/cli/hotswap
 [[ $? -ne 0 ]] && exit 1
 
-go test -trimpath -cover -coverpkg=github.com/edwingeng/hotswap -coverprofile=c.out -v "$@" \
+go test -trimpath -cover -coverpkg=github.com/scoursen/hotswap -coverprofile=c.out -v "$@" \
     && go tool cover -html=c.out

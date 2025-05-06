@@ -19,7 +19,7 @@
 # Getting Started
 
 ```
-go install github.com/edwingeng/hotswap/cli/hotswap@latest
+go install github.com/scoursen/hotswap/cli/hotswap@latest
 ```
 
 # Build a Plugin from Source Code
